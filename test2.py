@@ -13,3 +13,4 @@ d_m_d_t = np.matmul(d, d_t)
 
 print(d_t)
 print(np.linalg.det(d_m_d_t))
+# hello
